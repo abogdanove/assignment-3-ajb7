@@ -1,9 +1,17 @@
-output_dir: "."
+name: "our-website"
 navbar:
+  title: "Adam and Sachi's Website"
   left:
     - text: "Home"
       href: index.html
     - text: "Adam"
       href: adam.html
     - text: "Sachi"
-      href: sachi.html 
+      href: sachi.html
+output_dir: "."
+output:
+  html_document:
+    theme: readable
+    highlight: textmate
+    toc: true 
+    toc_float: true 
