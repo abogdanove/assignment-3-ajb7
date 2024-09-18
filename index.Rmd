@@ -1,0 +1,11 @@
+---
+title: "Adam and Sachi's website"
+author: "Adam"
+date: "2024-09-18"
+output: html_document
+---
+# Adam Bogdanove and Sachi Srivastava
+<br>
+Adam's GitHubub: https://github.com/abogdanove
+<br>
+Sachi's GitHub: https://github.com/sachisriv543
